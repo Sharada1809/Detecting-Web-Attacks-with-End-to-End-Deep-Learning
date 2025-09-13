@@ -60,9 +60,13 @@ Detecting-Web-Attacks-with-End-to-End-Deep-Learning/
 ## Sample Outputs
 
 Model Performance Metrics:
+
 Accuracy: 98.3%
+
 Precision: 97.5%
+
 Recall: 96.8%
+
 F1-Score: 97.1%
 
 ## SHAP Feature Importance:
