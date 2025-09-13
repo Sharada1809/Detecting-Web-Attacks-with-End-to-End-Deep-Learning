@@ -35,7 +35,7 @@ cd Detecting-Web-Attacks-with-End-to-End-Deep-Learning
 pip install -r requirements.txt
 
 
-## 📂 Project Structure
+📂 Project Structure
 
 Detecting-Web-Attacks-with-End-to-End-Deep-Learning/
 │
