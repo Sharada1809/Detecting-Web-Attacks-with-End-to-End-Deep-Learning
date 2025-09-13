@@ -37,16 +37,16 @@ pip install -r requirements.txt
 
 ## 📂 Project Structure
 
-'''
-
 Detecting-Web-Attacks-with-End-to-End-Deep-Learning/
 │
+|
 ├── Code/
 │   ├── DataProcess/
 │   │   └── data_process.py
 │   └── Model/
 │       └── keras_v1_One_label.py
 │
+|
 ├── Data/
 │   ├── Unique-data/
 │   ├── Train&Test/
@@ -55,12 +55,12 @@ Detecting-Web-Attacks-with-End-to-End-Deep-Learning/
 │   ├── Encode-data/
 │   └── Predict/
 │
+|
 ├── Model_Save/
 ├── requirements.txt
 └── README.md
 
 
-'''
 ## Sample Outputs
 
 Model Performance Metrics:
