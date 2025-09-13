@@ -35,7 +35,7 @@ cd Detecting-Web-Attacks-with-End-to-End-Deep-Learning
 pip install -r requirements.txt
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 Detecting-Web-Attacks-with-End-to-End-Deep-Learning/
 │
@@ -61,6 +61,8 @@ Detecting-Web-Attacks-with-End-to-End-Deep-Learning/
 └── README.md
 
 
+
+
 ## Sample Outputs
 
 Model Performance Metrics:
@@ -72,6 +74,8 @@ Precision: 97.5%
 Recall: 96.8%
 
 F1-Score: 97.1%
+
+
 
 ## SHAP Feature Importance:
 Visualization of key features influencing the model's predictions.
