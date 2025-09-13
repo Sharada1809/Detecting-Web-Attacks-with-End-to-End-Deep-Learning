@@ -36,6 +36,8 @@ pip install -r requirements.txt
 
 
 ## 📂 Project Structure
+
+
 Detecting-Web-Attacks-with-End-to-End-Deep-Learning/
 │
 ├── Code/
@@ -55,6 +57,7 @@ Detecting-Web-Attacks-with-End-to-End-Deep-Learning/
 ├── Model_Save/
 ├── requirements.txt
 └── README.md
+
 
 '''
 ## Sample Outputs
